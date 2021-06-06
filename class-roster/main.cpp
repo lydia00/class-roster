@@ -22,7 +22,7 @@ int main() {
 	cout << "C867 - Scripting and Programming Applications" << endl;
 	cout << "              Language: C++" << endl;
 	cout << "         Student ID: #-------" << endl;
-	cout << "               Lydia H" << endl;
+	cout << "                  lydia00" << endl;
 	cout << "*********************************************" << endl << endl;
 
 	// F.2. Create an instance of the Roster class called classRoster.
